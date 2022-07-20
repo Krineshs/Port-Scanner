@@ -1,8 +1,6 @@
 import socket
 
-Address = 0
-
-Address = input('Please input the Local Ip Adress you would like to scan: ')
+Address = input('Please input the Local Ip Address you would like to scan: ')
 startport = input('Please input the Port you would like to START scanning from: ')
 endport = input('Please input the Port you would like to END scanning from: ')
 
